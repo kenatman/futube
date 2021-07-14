@@ -36,3 +36,10 @@
 .channel {
   font-size: 0.6rem;
 }
+
+.list {
+  width: 100%;
+}
+.grid {
+  width: 50%;
+}
